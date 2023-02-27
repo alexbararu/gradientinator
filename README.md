@@ -1,2 +1,1 @@
-# solid-js-gradient-app
- 
+# Check out [The Gradientinator](https://vladpascu.com/solid-js-gradient-app)
